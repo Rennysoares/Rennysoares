@@ -7,8 +7,6 @@
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rennysoares&show_icons=true&theme=synthwave&border_radius=10)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rennysoares&layout=pie&bg_color=2b213a)
- 
 <div>
 	<p>Technologies:</p>
 	<hr>
