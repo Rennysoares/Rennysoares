@@ -1,9 +1,9 @@
 ### Welcome to my Github profile :)
-	Name: Rennison Soares
-	Age: 17 years old
-	From: Amazonas, Brazil
-	Education: 3rd year of high school
-	School: Instituto Federal de Educação, Ciência e Tecnologia do Amazonas - Campus Parintins
+	🧑 Name: Rennison Soares
+	🌴 Age: 17 years old
+	🌇 From: Amazonas, Brazil
+	🎒 Education: 3rd year of high school
+	🏫 School: Instituto Federal de Educação, Ciência e Tecnologia do Amazonas - Campus Parintins
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rennysoares&show_icons=true&theme=synthwave&border_radius=10)
 
