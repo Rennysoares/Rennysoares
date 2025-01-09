@@ -1,6 +1,6 @@
 ### Welcome to my Github profile :)
 	🧑 Name: Rennison Soares
-	🌴 Age: 18 years old
+	🌴 Age: 19 years old
 	🌇 From: Amazonas, Brazil
 	🎒 Education: University
 	🏫 School: UEA - Universidade do Estado do Amazonas
